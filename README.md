@@ -26,16 +26,15 @@
 
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Use.
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
 ## AVAILABLE ON :
 
 * Termux
-
+* Linux
 ### TESTED ON :
 
-* Termux
+* Termux & Linux
 
 ### REQUIREMENTS :
 * internet
@@ -47,7 +46,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * [+] Dangerous virus tool !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
-* [+] Working virus tool for termux !
+* [+] Working virus tool for termux & Linux !
 
 ## INSTALLATION [Termux] :
 
@@ -57,7 +56,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/FLASH-HUNTER/infect`
 * `cd $HOME`
 * `cd infect`
 * `bash infect.sh`
