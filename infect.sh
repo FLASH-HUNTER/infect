@@ -32,7 +32,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        FLASH HUNTER
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn SPEED$red◀$rset"
@@ -64,7 +64,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        FLASH HUNTER
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn SPEED$red◀$rset"
