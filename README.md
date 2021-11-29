@@ -78,13 +78,6 @@ __UPDATE__ :
 __EXIT__ :
 - From this option you can exit from infect tool 
 
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
-</p>
 
 ## BUY ME A COFFEE :
 
