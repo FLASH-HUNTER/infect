@@ -57,7 +57,6 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install git -y`
 * `pip install lolcat`
 * `git clone https://github.com/FLASH-HUNTER/infect`
-* `cd $HOME`
 * `cd infect`
 * `bash infect.sh`
 ```
